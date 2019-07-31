@@ -8,4 +8,4 @@ The **MNIST** Dataset has **65000** images of **handwritten digits** divided int
 
 ## Model performance
 
-We were able to achieve test set accuracy of **99.06%**.
+We were able to achieve test set accuracy of **99.09%**.
